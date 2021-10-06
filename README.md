@@ -1,5 +1,7 @@
-# Capstone-Bikeshare-Weather
-Austin bikeshare-weather data analysis project for Google Data Analytics course.
+# Capstone: A Rainy Day for a Bikeshare
+
+Austin, TX bikeshare-weather data analysis project for Google Data Analytics course.
+
 Made by Madi, Sept. 2021. 
 
 Use the Capstone.md to view!
